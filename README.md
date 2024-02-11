@@ -1,1 +1,1 @@
-# Telescope-Optics-Calculationor
+# Telescope-Optics-Calculator
